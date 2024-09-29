@@ -1,4 +1,4 @@
-import './App.css';
+import './App.scss';
 
 import Menu from './Menu/Menu';
 import Hero from './Hero/Hero';
